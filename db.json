@@ -1,0 +1,475 @@
+{
+  "data": [
+    {
+      "id": "fb10",
+      "bname": "yash",
+      "price": "1000",
+      "author": "yash",
+      "book-type": "Horror",
+      "pages": "300 -- to -- 400",
+      "message": "test try",
+      "contact": "2314569874",
+      "pass": "rcg11###",
+      "mail": "rc@gmail.com",
+      "lname": "gohil",
+      "fname": "rohit"
+    }
+  ],
+  "category": [
+    {
+      "id": "5242",
+      "category_name": "Mens"
+    },
+    {
+      "id": "f9ca",
+      "category_name": "Womens"
+    },
+    {
+      "id": "7910",
+      "category_name": "Electronics"
+    },
+    {
+      "id": "620e",
+      "category_name": "Kids"
+    },
+    {
+      "id": "bd62",
+      "category_name": "Grociers"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "7406",
+      "category_name": "Mens",
+      "subcategory": "Shirts"
+    },
+    {
+      "id": "c2a3",
+      "category_name": "Mens",
+      "subcategory": "Shoes"
+    },
+    {
+      "id": "688d",
+      "category_name": "Womens",
+      "subcategory": "Sarees"
+    },
+    {
+      "id": "a0cd",
+      "category_name": "Womens",
+      "subcategory": "Sandles"
+    },
+    {
+      "id": "ddf9",
+      "category_name": "Electronics",
+      "subcategory": "Phones"
+    },
+    {
+      "id": "0aee",
+      "category_name": "Electronics",
+      "subcategory": "Television"
+    },
+    {
+      "id": "fce0",
+      "category_name": "Kids",
+      "subcategory": "Clothes"
+    },
+    {
+      "id": "f859",
+      "category_name": "Kids",
+      "subcategory": "Toys"
+    }
+  ],
+  "brand": [
+    {
+      "id": "ff78",
+      "category_name": "Mens",
+      "subcategory": "Shirts",
+      "brand": "Raymond"
+    },
+    {
+      "id": "187d",
+      "category_name": "Mens",
+      "subcategory": "Shirts",
+      "brand": "Tommy Hilfigure"
+    },
+    {
+      "id": "62f0",
+      "category_name": "Mens",
+      "subcategory": "Shoes",
+      "brand": "Puma"
+    },
+    {
+      "id": "6465",
+      "category_name": "Mens",
+      "subcategory": "Shoes",
+      "brand": "Nicke"
+    },
+    {
+      "id": "41cf",
+      "category_name": "Mens",
+      "subcategory": "Shoes",
+      "brand": "Bata"
+    },
+    {
+      "id": "08d1",
+      "category_name": "Womens",
+      "subcategory": "Sarees",
+      "brand": "Sangita"
+    },
+    {
+      "id": "1e0f",
+      "category_name": "Womens",
+      "subcategory": "Sarees",
+      "brand": "Raymond"
+    },
+    {
+      "id": "792d",
+      "category_name": "Womens",
+      "subcategory": "Sandles",
+      "brand": "Bata"
+    },
+    {
+      "id": "9dbf",
+      "category_name": "Womens",
+      "subcategory": "Sandles",
+      "brand": "lukkie"
+    },
+    {
+      "id": "09e1",
+      "category_name": "Electronics",
+      "subcategory": "Phones",
+      "brand": "Oppo"
+    },
+    {
+      "id": "0898",
+      "category_name": "Electronics",
+      "subcategory": "Phones",
+      "brand": "Vivo"
+    },
+    {
+      "id": "0796",
+      "category_name": "Electronics",
+      "subcategory": "Phones",
+      "brand": "Redmi"
+    },
+    {
+      "id": "bb4d",
+      "category_name": "Electronics",
+      "subcategory": "Television",
+      "brand": "LG"
+    },
+    {
+      "id": "432e",
+      "category_name": "Electronics",
+      "subcategory": "Television",
+      "brand": "Panasonic"
+    },
+    {
+      "id": "abf5",
+      "category_name": "Kids",
+      "subcategory": "Clothes",
+      "brand": "Fendi"
+    },
+    {
+      "id": "7fa5",
+      "category_name": "Kids",
+      "subcategory": "Clothes",
+      "brand": "Rosy Blue"
+    },
+    {
+      "id": "0a5d",
+      "category_name": "Kids",
+      "subcategory": "Toys",
+      "brand": "lenovo"
+    },
+    {
+      "id": "81a1",
+      "category_name": "Kids",
+      "subcategory": "Toys",
+      "brand": "\tLego"
+    }
+  ],
+  "product": [
+    {
+      "id": "cb36",
+      "category_name": "Mens",
+      "subcategory": "Shirts",
+      "brand": "Levis",
+      "title": "Men Slim Fit Solid Spread Collar Formal Shirt",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "379",
+      "oprice": "400",
+      "stocks": "25",
+      "size": [
+        "9",
+        "10",
+        "11"
+      ],
+      "rating": "3",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/o/s/p/m-ts-shirt1689-tanip-original-imagrf39sdkhdjcf.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "d37d",
+      "category_name": "Mens",
+      "subcategory": "Shirts",
+      "brand": "Raymond",
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "329",
+      "oprice": "580",
+      "stocks": "20",
+      "size": [
+        "9",
+        "10",
+        "11"
+      ],
+      "rating": "4",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/p/r/y/m-formal-shirt-metronaut-original-imahfccfh6ftrfaz.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "b9be",
+      "category_name": "Mens",
+      "subcategory": "Shirts",
+      "brand": "Tommy Hilfigure",
+      "title": "Men Slim Fit Solid Spread Collar Casual Shirt",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "499",
+      "oprice": "730",
+      "stocks": "18",
+      "rating": "5",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/b/w/o/s-c301-white-dennis-lingo-original-imafw2ggrk5epcfu-bb.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "ca2d",
+      "category_name": "Mens",
+      "subcategory": "Shirts",
+      "brand": "Levis",
+      "title": "Men Boxy Fit Solid Spread Collar Casual Shirt",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "374",
+      "oprice": "550",
+      "stocks": "9",
+      "rating": "4",
+      "path": "https://rukminim2.flixcart.com/image/416/416/xif0q/shirt/s/e/q/l-popcorn-half-sleeve-casual-shirt-for-men-solstice-original-imahyrb8ahhafggn.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "c35d",
+      "category_name": "Womens",
+      "subcategory": "Sarees",
+      "brand": "Sangita",
+      "title": "Woven Banarasi Silk Blend Saree  (Blue)",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "699",
+      "oprice": "1000",
+      "stocks": "10",
+      "rating": "4",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/k/1/s/free-ac-qr-84-prachi-looknchoice-unstitched-original-imahfczzvyjxx2bh.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "6afd",
+      "category_name": "Womens",
+      "subcategory": "Sarees",
+      "brand": "Raymond",
+      "title": "Embellished, Striped, Self Design Leheria Satin Saree  (Light Blue)",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "299",
+      "oprice": "399",
+      "stocks": "6",
+      "rating": "5",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/y/v/y/free-md-wb-sat6006-3-kashvi-sarees-no-blouse-original-imagrwfsjzeagzwp.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "28d8",
+      "category_name": "Womens",
+      "subcategory": "Sarees",
+      "brand": "Raymond",
+      "title": "Printed, Floral Print Daily Wear Chiffon Saree  (Red, Green)",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "429",
+      "oprice": "600",
+      "stocks": "12",
+      "rating": "4",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/p/a/j/free-sari-women-saree-new2023-design-chiffon-floral-print-saree-original-imagz5vzf7jzhscv.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "33cf",
+      "category_name": "Womens",
+      "subcategory": "Sarees",
+      "brand": "Raymond",
+      "title": "Embellished Bollywood Lycra Blend Saree  (Blue)",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "329",
+      "oprice": "450",
+      "stocks": "24",
+      "rating": "3",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/o/q/3/-original-imagv2zmvbkvswze.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "9079",
+      "category_name": "Womens",
+      "subcategory": "Sandles",
+      "brand": "Bata",
+      "title": "Velcro Strappy Sandals For Girls  (Pink)",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "550",
+      "oprice": "600",
+      "stocks": "20",
+      "rating": "4",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-sandal/b/b/2/5-ms210-pink-k-footlance-original-imagssnubr7qrerx.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "d2ac",
+      "category_name": "Womens",
+      "subcategory": "Sandles",
+      "brand": "Bata",
+      "title": "Women Lightweight Comfort Summer Trendy Premium Stylish Party Casual Extra Soft Purple Wedges Sandal",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "400",
+      "oprice": "320",
+      "stocks": "25",
+      "size": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "rating": "4",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/s/f/p/5-jl-art-539-2a-purple-5-jumplite-purple-original-imagyxpykhr2d4gz.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "cd41",
+      "category_name": "Womens",
+      "subcategory": "Sandles",
+      "brand": "Bata",
+      "title": "Women Black Wedges Sandal",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "499",
+      "oprice": "1599",
+      "stocks": "45",
+      "size": [
+        "9",
+        "10",
+        "11",
+        "8"
+      ],
+      "rating": "2",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/f/t/j/3-ts43-098-3-trase-black-original-imagkffdcggsqvd9.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "8f78",
+      "category_name": "Womens",
+      "subcategory": "Sandles",
+      "brand": "lukkie",
+      "title": "Women Yellow, White Flats Sandal",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "499",
+      "oprice": "580",
+      "stocks": "35",
+      "rating": "4",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/a/i/j/5-rfs0110-5-red-flamingo-yellow-original-imagvyep8hfshcgx.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "0e88",
+      "category_name": "Electronics",
+      "subcategory": "Phones",
+      "brand": "Oppo",
+      "title": "OPPO A38 (Glowing Gold, 128 GB)  (4 GB RAM)",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "9999",
+      "oprice": "12000",
+      "stocks": "10",
+      "size": [],
+      "rating": "4",
+      "path": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/g/j/6/a38-cph2579-oppo-original-imagt5ukkqmm9eja.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "12f4",
+      "category_name": "Electronics",
+      "subcategory": "Phones",
+      "brand": "Vivo",
+      "title": "vivo T3x 5G (Crimson Bliss, 128 GB)  (6 GB RAM)",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "15000",
+      "oprice": "14000",
+      "stocks": "8",
+      "rating": "3",
+      "path": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/w/3/4/-original-imahyytukhkky5ew.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "91b9",
+      "category_name": "Electronics",
+      "subcategory": "Phones",
+      "brand": "Redmi",
+      "title": "Xiaomi 14 CIVI (Matcha Green, 256 GB)  (8 GB RAM)",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "42999",
+      "oprice": "48000",
+      "stocks": "10",
+      "rating": "4",
+      "path": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/l/s/s/14-civi-mzb0hd1in-xiaomi-original-imahfqjxh3dxkdp3.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "22cf",
+      "category_name": "Electronics",
+      "subcategory": "Television",
+      "brand": "LG",
+      "title": "LG 80 cm (32 inch) HD Ready LED Smart WebOS TV",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "15,489",
+      "oprice": "20000",
+      "stocks": "4",
+      "rating": "4",
+      "path": "https://rukminim2.flixcart.com/image/416/416/xif0q/television/0/j/5/-original-imagzmeyjuvxbuqe.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "89bc",
+      "category_name": "Electronics",
+      "subcategory": "Television",
+      "brand": "Panasonic",
+      "title": "Dyanora 60 cm (24 Inch) HD Ready LED TV",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "5999",
+      "oprice": "7000",
+      "stocks": "8",
+      "rating": "3",
+      "path": "https://rukminim2.flixcart.com/image/416/416/xif0q/television/i/a/q/dy-ld24h1n-dy-ld24h1n-dyanora-original-imahyvhytdqjvu2f.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "b2ab",
+      "category_name": "Kids",
+      "subcategory": "Clothes",
+      "brand": "Fendi",
+      "title": "Boys Printed Cotton Blend T Shirt ",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "459",
+      "oprice": "300",
+      "stocks": "20",
+      "size": [
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": "4",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-t-shirt/k/w/u/5-6-years-hft-23hr3-on-pe-ics-hellcat-original-imagn9wcf7tzzx8p.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "97df",
+      "category_name": "Kids",
+      "subcategory": "Clothes",
+      "brand": "Rosy Blue",
+      "title": "Girls Below Knee Festive/Wedding Dress ",
+      "decs": "Shipping charges are calculated based on the number of units, distance and delivery date.\\nDelivery charges if applicable will be shown on the product page and cart.",
+      "price": "600",
+      "oprice": "750",
+      "stocks": "20",
+      "size": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "rating": "4",
+      "path": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/s/o/5/6-7-years-rff-n-pk-pn-fashion-original-imahfdfqdvnygphu.jpeg?q=70&crop=false"
+    }
+  ]
+}
